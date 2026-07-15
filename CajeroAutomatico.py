@@ -3,14 +3,14 @@
 # Autor: NEIL MEZA 3ROSEC
 # ===========================================
 
-saldo = 20000
-pin_correcto = "9012"
+saldo = 6900
+pin_correcto = "3456"
 
 print("===================================")
-print("     BIENVENIDO AL BANCO INTERBANK)
+print("     BIENVENIDO AL BANCO bbva)
 print("===================================")
 
-pin = input("Ingresar PIN: ")
+pin = input("pr favor ingrese su PIN: ")
 
 if pin == pin_correcto:
 
